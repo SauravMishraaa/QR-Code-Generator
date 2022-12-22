@@ -1,2 +1,2 @@
 # QR-Code-Generator
-## It generates a qr code. 
+## It generates a QR code. 
